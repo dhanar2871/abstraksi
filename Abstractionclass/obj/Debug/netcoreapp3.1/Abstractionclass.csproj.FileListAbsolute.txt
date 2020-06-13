@@ -1,0 +1,13 @@
+D:\tugas pemrograman\abstraksi\Abstractionclass\bin\Debug\netcoreapp3.1\Abstractionclass.exe
+D:\tugas pemrograman\abstraksi\Abstractionclass\bin\Debug\netcoreapp3.1\Abstractionclass.deps.json
+D:\tugas pemrograman\abstraksi\Abstractionclass\bin\Debug\netcoreapp3.1\Abstractionclass.runtimeconfig.json
+D:\tugas pemrograman\abstraksi\Abstractionclass\bin\Debug\netcoreapp3.1\Abstractionclass.runtimeconfig.dev.json
+D:\tugas pemrograman\abstraksi\Abstractionclass\bin\Debug\netcoreapp3.1\Abstractionclass.dll
+D:\tugas pemrograman\abstraksi\Abstractionclass\bin\Debug\netcoreapp3.1\Abstractionclass.pdb
+D:\tugas pemrograman\abstraksi\Abstractionclass\obj\Debug\netcoreapp3.1\Abstractionclass.csprojAssemblyReference.cache
+D:\tugas pemrograman\abstraksi\Abstractionclass\obj\Debug\netcoreapp3.1\Abstractionclass.csproj.CoreCompileInputs.cache
+D:\tugas pemrograman\abstraksi\Abstractionclass\obj\Debug\netcoreapp3.1\Abstractionclass.AssemblyInfoInputs.cache
+D:\tugas pemrograman\abstraksi\Abstractionclass\obj\Debug\netcoreapp3.1\Abstractionclass.AssemblyInfo.cs
+D:\tugas pemrograman\abstraksi\Abstractionclass\obj\Debug\netcoreapp3.1\Abstractionclass.dll
+D:\tugas pemrograman\abstraksi\Abstractionclass\obj\Debug\netcoreapp3.1\Abstractionclass.pdb
+D:\tugas pemrograman\abstraksi\Abstractionclass\obj\Debug\netcoreapp3.1\Abstractionclass.genruntimeconfig.cache

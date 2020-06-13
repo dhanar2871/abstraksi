@@ -1,0 +1,13 @@
+D:\tugas pemrograman\abstraksi\interface\bin\Debug\netcoreapp3.1\interface.exe
+D:\tugas pemrograman\abstraksi\interface\bin\Debug\netcoreapp3.1\interface.deps.json
+D:\tugas pemrograman\abstraksi\interface\bin\Debug\netcoreapp3.1\interface.runtimeconfig.json
+D:\tugas pemrograman\abstraksi\interface\bin\Debug\netcoreapp3.1\interface.runtimeconfig.dev.json
+D:\tugas pemrograman\abstraksi\interface\bin\Debug\netcoreapp3.1\interface.dll
+D:\tugas pemrograman\abstraksi\interface\bin\Debug\netcoreapp3.1\interface.pdb
+D:\tugas pemrograman\abstraksi\interface\obj\Debug\netcoreapp3.1\interface.csprojAssemblyReference.cache
+D:\tugas pemrograman\abstraksi\interface\obj\Debug\netcoreapp3.1\interface.csproj.CoreCompileInputs.cache
+D:\tugas pemrograman\abstraksi\interface\obj\Debug\netcoreapp3.1\interface.AssemblyInfoInputs.cache
+D:\tugas pemrograman\abstraksi\interface\obj\Debug\netcoreapp3.1\interface.AssemblyInfo.cs
+D:\tugas pemrograman\abstraksi\interface\obj\Debug\netcoreapp3.1\interface.dll
+D:\tugas pemrograman\abstraksi\interface\obj\Debug\netcoreapp3.1\interface.pdb
+D:\tugas pemrograman\abstraksi\interface\obj\Debug\netcoreapp3.1\interface.genruntimeconfig.cache
